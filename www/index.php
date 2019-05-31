@@ -1,3 +1,2 @@
 <?php
-$db = new mysqli("mysql", "root", "toor", "mysql", 3306);
-
+$db = new mysqli("mysql", "user", "pass", "db", 3306);
