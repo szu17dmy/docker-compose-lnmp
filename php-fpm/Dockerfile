@@ -1,1 +1,1 @@
-FROM php:fpm
+FROM php:7-fpm

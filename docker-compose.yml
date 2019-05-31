@@ -21,6 +21,6 @@ services:
       - mysql
 
   mysql:
-    image: mysql
+    image: mysql:latest
     environment:
       - MYSQL_ROOT_PASSWORD=toor
